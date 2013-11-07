@@ -1,4 +1,4 @@
-﻿// ref_matrix.cpp: определяет точку входа для консольного приложения.
+﻿// IM LIKE PORNO.
 //
 
 #include "stdafx.h"
